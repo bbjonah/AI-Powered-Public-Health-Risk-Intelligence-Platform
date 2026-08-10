@@ -193,7 +193,7 @@ Forecasts support early warning and resource planning.
 - ✅ **Machine learning risk prediction** across five candidate algorithms
 - ✅ **Explainable AI (SHAP)** for transparent, trustworthy predictions
 - ✅ **Disease hotspot detection** and geospatial risk mapping
-- ✅ **Environmental risk analysis** — climate, pollution, and water quality
+- ✅ **Environmental risk analysis** climate, pollution, and water quality
 - ✅ **Healthcare capacity assessment** — access, bed capacity, and doctor ratios
 - ✅ **Social media health intelligence** — sentiment and misinformation monitoring
 - ✅ **Interactive geospatial dashboards** built with GeoPandas and Folium
