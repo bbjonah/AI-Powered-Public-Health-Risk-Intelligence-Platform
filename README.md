@@ -3,18 +3,15 @@
 <div align="center">
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
 ![XGBoost](https://img.shields.io/badge/XGBoost-2E86C1?style=for-the-badge&logo=xgboost&logoColor=white)
-
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-8E44AD?style=for-the-badge)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
  
-> An end-to-end **AI and geospatial intelligence platform** that fuses demographic, environmental, healthcare, mobility, and social data across 20,000+ synthetic surveillance records to predict public health risk, detect disease outbreak hotspots, forecast disease trends, and deliver it all through an **interactive Streamlit + GIS dashboard** — built to strengthen public health preparedness and resource allocation.
+> An end-to-end **AI and geospatial intelligence platform** that fuses demographic, environmental, healthcare, mobility, and social data across 20,000+ synthetic surveillance records to predict public health risk, detect disease outbreak hotspots, forecast disease trends, and deliver it all through an **interactive Streamlit + GIS dashboard** built to strengthen public health preparedness and resource allocation.
  
 </div>
 ---
