@@ -376,9 +376,10 @@ streamlit
 - Health Intelligence Systems
 ---
 <div align="center">
+ 
 👤 Author
  
-**Name:** Joan Josh
+**Name:** Jonah Buka
  
 🌍 Passionate about building AI-driven, data-centric solutions that address real-world public health challenges through machine learning, geospatial analytics, and interactive data visualization.
  
