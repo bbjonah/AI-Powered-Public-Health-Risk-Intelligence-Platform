@@ -376,7 +376,7 @@ streamlit
 - Health Intelligence Systems
 ---
 <div align="center">
-## 👤 Author
+👤 Author
  
 **Name:** Joan Josh
  
